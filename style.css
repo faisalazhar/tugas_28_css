@@ -1,0 +1,20 @@
+
+
+.container {
+  width: 400px;
+  background-color: #333333;
+}
+label{
+  color: white;
+}
+.form-group{
+  margin: 20px;
+
+}
+input[type=file] {
+  color: white;
+}
+strong{
+  color: blue;
+  font-weight: bolder;
+}
